@@ -96,7 +96,7 @@ st.markdown("""
 </style>
 
 <div style="text-align: center; margin: 2rem 0;">
-    <a href="https://ipikeq22.github.io/tasksnap_Sweet_Cookie_Bite_Game/" target="_blank" class="learn-more">
+    <a href="https://ipikeq22.github.io/tasksnap_Sweet_Cookie_Bite_Game_english/index.html" target="_blank" class="learn-more">
         🎮 Start Game
     </a>
 </div>
