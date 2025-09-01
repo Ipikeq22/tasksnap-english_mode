@@ -94,8 +94,9 @@ with col2:
         st.markdown(
             """
             <script>
-            window.open('https://tasksnap-ytmctx95gflwfq9pxzje2z.streamlit.app', '_blank');
+            window.open('https://tasksnap-ytmctx95gflwfq9pxzje2z.streamlit.app/', '_blank');
             </script>
             """,
             unsafe_allow_html=True
         )
+
