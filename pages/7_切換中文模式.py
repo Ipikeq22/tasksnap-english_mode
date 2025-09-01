@@ -90,13 +90,5 @@ with col2:
 # Load local cartoon illustration
 col1, col2, col3 = st.columns([1, 1, 1])
 with col2:
-    if st.button("前往中文網站 🌍"):
-        st.markdown(
-            """
-            <script>
-            window.open('https://tasksnap-ytmctx95gflwfq9pxzje2z.streamlit.app/', '_blank');
-            </script>
-            """,
-            unsafe_allow_html=True
-        )
+    st.link_button("前往中文網站 🌍", "https://tasksnap-ytmctx95gflwfq9pxzje2z.streamlit.app")
 
